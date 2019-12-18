@@ -19,7 +19,7 @@ echo " batura : " . $suma;
 $x = 0;
 
 while($x <= 6) {
-    echo "The number is: $x <br>";
+    echo "The number is: $x = $suma = $x <br>";
     $x++;
 }
 ?>
